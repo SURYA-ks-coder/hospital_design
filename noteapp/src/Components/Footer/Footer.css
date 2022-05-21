@@ -1,0 +1,29 @@
+ul li a{
+    text-decoration: none;
+    color:#fff;
+   
+
+}
+ul li {
+    list-style: none;
+
+    
+}
+#footer{
+    
+    padding-top: 80px;
+    max-width: 100%;
+    min-height: 400px;
+    background-color: rgb(234, 148, 162);
+        
+}
+#space{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.copyright{
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}

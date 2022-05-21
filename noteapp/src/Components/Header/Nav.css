@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(234, 148, 162);
+    
+
+    
+}
+.navbar-collapse{
+    display: flex;
+    
+    justify-content: end;
+}
+@media(max-width:900px){
+    .navbar-brand{
+        display: flex;
+        justify-content: start;
+    }
+
+}

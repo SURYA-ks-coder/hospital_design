@@ -1,0 +1,25 @@
+
+.consult{
+   
+    background-image: url(./Online.jpg);
+    height: 700px;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+.display{
+  padding-top: 300px;
+
+}
+#btn{
+    border: 2px solid rgb(234, 148, 162)  !important;
+    border-radius: 20px;
+    background-color: transparent;
+    margin-left: 100px;
+    padding: 5px;
+}
+#btn:hover{
+    background-color: rgb(234, 148, 162)  !important;
+    box-shadow: 4px 5px 12px rgb(135, 126, 128) !important;
+    color: #fff;
+}
